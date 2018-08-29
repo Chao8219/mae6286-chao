@@ -4,6 +4,6 @@ This is a repo for the class.
 
 Currently we are using Jupyter as a shell.
 
-Login the GW Jupyter [here](go.gwu.edu/jupyter).
+Login the GW Jupyter [here](http://go.gwu.edu/jupyter).
 
 
